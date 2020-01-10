@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+#body{
+    background-color: rgb(139, 139, 139);
+    height: 7rem;
+}
+.mm{list-style-type:none;
+    background-color: white;
+    border-radius: 0.2rem;
+}
+.m{ display: inline-block;
+    padding: 1rem;
+}
+#m1{
+size:3rem;
+   position: fixed;
+   left:3vw; 
+}
+#m2{size:3rem;
+    position: fixed;
+    left:20vw; 
+}
+#m1{size:3rem;
+position: fixed;
+left:40vw; 
+}
+.list{
+    list-style-type:none;
+    border-radius: 0.2rem;
+    background-color:white;
+    position: relative;
+    left:3rem;
+}
